@@ -1,0 +1,10 @@
+state={
+  users: [
+    {name: 'Manish Chaurasiya' , age: 26 , address: 'Koramangla-Bangalore'},
+    {name: 'Ravi Singh' , age: 23 , address: 'Gurugram-Haryana'},
+    {name: 'Sudha Barui' , age: 29 , address: 'Bally-Howrah'},
+    {name: 'Devansh Chaurasiya' , age: 1 , address: 'Mahpur-Siwan'},
+    {name: 'Ravi Chaurasiya' , age: 20 , address: 'Jhungia-Gorakhpur'},
+
+  ]
+}

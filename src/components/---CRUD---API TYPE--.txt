@@ -1,0 +1,21 @@
+---CRUD---API TYPE--
+CREATE => POST
+READ => GET
+UPDATE => PUT/PATCH
+DELETE => DELETE
+
+
+//REACT - lifecycle - class componet
+3 phase => 
+
+    1 - mount => load => 
+        - constructor // state => init
+        - componentWillMount // DEPRECATE
+        - render
+        - componentDidMount //Api call => update => setState => update phase
+
+    2 - update => setState => update => ui
+        - componentDidUpdate
+        - render
+    3 - unmout => free memory from main memory
+        - componentWillUnMount
